@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
- <img src="https://i.ibb.co/kg8TF5S/430429105-1170292123956423-2441355062185615842-n.jpg"  width="400"></a>
+ <img src="https://i.ibb.co/kg8TF5S/430429105-1170292123956423-2441355062185615842-n.jpg"  width="250"></a>
   <br>
   <Intro>Guillotine</Intro>
   <br>
